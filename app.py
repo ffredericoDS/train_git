@@ -83,3 +83,6 @@ if __name__ == "__main__":
 ################################################
     #teste para fazer esse comit 
 a = 10
+
+
+#aparecer no vs code com git push
